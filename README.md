@@ -162,4 +162,4 @@ The project was completed using:
 
 #   Dashboard Preview
 
-! [Dashboard](B0444DAA-9FED-4386-A867-194D0E1AA226.jpeg)
+![Dashboard](B0444DAA-9FED-4386-A867-194D0E1AA226.jpeg)
