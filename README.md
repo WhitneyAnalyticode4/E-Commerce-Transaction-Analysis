@@ -159,3 +159,7 @@ The project was completed using:
 - **Microsoft Power BI** — Dashboard development and visualization
 - **Power Query** — Data transformation
 - **DAX** — Measures and calculations
+
+#   Dashboard Preview
+
+! [Dashboard]()
